@@ -7,6 +7,8 @@
 7. git diff          //查看修改的内容
 8. git log           //查看提交日志
 9. git reflog        //查看所有命令
-10. git reset --hard HEAD^ //版本回退到上一次的提交
-11. git checkout -- 测试
-12223
+10. git reset --hard HEAD^      //版本回退到上一次的提交
+11. git checkout -- <filename>  //版本回退到暂存区的状态(一键还原功能)
+12. touch <FileName>            //新建文件
+13. reset                       //清屏命令
+14. git rm <FileName>           //将文件从版本库中删除
