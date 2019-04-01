@@ -12,3 +12,4 @@
 12. touch <FileName>            //新建文件
 13. reset                       //清屏命令
 14. git rm <FileName>           //将文件从版本库中删除
+15.
